@@ -1,3 +1,4 @@
 teste novo arquivo
 testando
 testando inclusao
+nao faz merge
