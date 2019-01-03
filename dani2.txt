@@ -1,4 +1,4 @@
 segundo commit
 branch
 branch
-alterando para conflito branch danica
+alterando para conflito branch danica master
